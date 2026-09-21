@@ -4,7 +4,7 @@
 
 **Descripción:**
 
-Definimos la función y el programa solicita dos valores enteros al usuario (base y altura)
+Definimos la función y el programa solicita dos valores enteros al usuario (base y altura) para poder calcular el área del rectangulo.
 
 **Función:** 
 
@@ -16,4 +16,4 @@ base: 3
 
 altura: 9 
 
-La altura del rectángulo es 27 
+El area del rectángulo es 27 
