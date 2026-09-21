@@ -1,6 +1,7 @@
 # Calcular el área de un rectángulo
 
 **NOMBRE:** Pacheco Merino Susy Mishell
+
 **Descripción:**
 
 Definimos la función y el programa solicita dos valores enteros al usuario (base y altura)
